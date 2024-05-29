@@ -1,0 +1,8 @@
+
+dist/
+build/
+bin/
+release/
+obj/
+.vs/
+.idea/
